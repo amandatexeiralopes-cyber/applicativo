@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.lovable.embrace_info_verse.twa",
+        "sha256_cert_fingerprints": ["7A:19:59:DD:D1:8F:40:3D:FD:6A:92:74:B3:C3:87:77:21:88:BA:EE:D2:1A:AB:32:62:92:F1:64:94:CC:AE:CD"]
+      }
+    }]

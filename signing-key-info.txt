@@ -1,0 +1,10 @@
+Keep this file and signing.keystore in a safe place. You'll need these files if you want to upload future versions of your PWA to the Google Play Store.
+
+Key store file: signing.keystore
+Key store password: UQ4_YJIdaWLa
+Key alias: my-key-alias
+Key password: UQ4_YJIdaWLa
+Signer's full name: BEES Admin
+Signer's organization: BEES - Ajudando seu negócio a crescer
+Signer's organizational unit: Engineering
+Signer's country code: US
